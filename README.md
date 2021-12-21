@@ -1,0 +1,1 @@
+# bulgar_maxstamina_core
